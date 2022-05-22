@@ -1,0 +1,7 @@
+C:\Users\mutam\source\repos\SecurityAlgorithmTest\SecurityAlgorithmTest\bin\Debug\SecurityAlgorithmTest.exe.config
+C:\Users\mutam\source\repos\SecurityAlgorithmTest\SecurityAlgorithmTest\bin\Debug\SecurityAlgorithmTest.exe
+C:\Users\mutam\source\repos\SecurityAlgorithmTest\SecurityAlgorithmTest\bin\Debug\SecurityAlgorithmTest.pdb
+C:\Users\mutam\source\repos\SecurityAlgorithmTest\SecurityAlgorithmTest\obj\Debug\SecurityAlgorithmTest.csproj.CoreCompileInputs.cache
+C:\Users\mutam\source\repos\SecurityAlgorithmTest\SecurityAlgorithmTest\obj\Debug\SecurityAlgorithmTest.exe
+C:\Users\mutam\source\repos\SecurityAlgorithmTest\SecurityAlgorithmTest\obj\Debug\SecurityAlgorithmTest.pdb
+C:\Users\mutam\source\repos\SecurityAlgorithmTest\SecurityAlgorithmTest\obj\Debug\SecurityAlgorithmTest.csproj.AssemblyReference.cache
